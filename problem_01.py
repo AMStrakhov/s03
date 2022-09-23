@@ -18,6 +18,7 @@ Output: 3
 
 def main() -> None:
     # Write your solution here using input() and print():
+    # To launch tests: python3 -m unittest tests.test_problem_01
     ...
 
 
