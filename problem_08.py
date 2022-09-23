@@ -18,7 +18,7 @@ Output: 5
 
 def sum_of_digits(number: int) -> int:
     # Write your solution here using arguments and return:
-    # To launch tests: python3 -m unittest tests.test_problem_11
+    # To launch tests: python3 -m unittest tests.test_problem_08
     ...
 
 
