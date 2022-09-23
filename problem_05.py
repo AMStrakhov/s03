@@ -17,7 +17,7 @@ Output: 5
 
 
 def sum_of_digits(number: int) -> int:
-    # Write your solution here:
+    # Write your solution here using arguments and return:
     ...
 
 

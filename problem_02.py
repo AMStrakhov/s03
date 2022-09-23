@@ -26,7 +26,7 @@ Output:
 
 
 def main() -> None:
-    # Write your solution here:
+    # Write your solution here using input() and print():
     ...
 
 
