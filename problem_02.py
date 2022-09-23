@@ -1,27 +1,27 @@
 """
 Description:
 
-Write a code that will print the following:
+Write a script with two integer inputs. The first value is a limit (positive or negative),
+and the second is a divider. The script should print all integers
+from 0 to the limit that are divisible by the divider without a remainder.
 
-0 A 2 3 4 5
-0 A 2 3 4 5
-0 A 2 3 4 5
-0 A 2 3 4 5
-< O > > > >
-0 V 2 3 4 5
-
-From 0 to n (not inclusive), where n is an integer equal or greater than 0 from the
-user's input. Number of rows equals to n.
+If the divider is 0, catch an exception and print once:
+"Error: Division by zero"
 
 Example:
-Input: 1
+Input: 10
+3
 Output: 0
+3
+6
+9
 
-Input: 3
-Output:
-0 A 2
-< O >
-0 V 2
+Input: -10
+3
+Output: 0
+-3
+-6
+-9
 """
 
 
